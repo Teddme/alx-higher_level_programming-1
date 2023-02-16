@@ -15,4 +15,3 @@ class TestRectangle(unittest.TestCase):
         """Function to test the input the function rectangle"""
 
         self.assertRaises(TypeError, rectangle, )
-
